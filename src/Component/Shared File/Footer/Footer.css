@@ -1,0 +1,37 @@
+footer{
+    background-color: rgb(19, 25, 47);
+    width: 100%;
+}
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 144px;
+}
+.footer-container img{
+    width: 150px;
+    margin: 50px 0;
+    
+}
+.footer-details{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 50px 0; 
+}
+.footer-details a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5px;
+}
+.copyright-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 144px;
+    color: white;
+}
+.copyright-details{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-bottom: 20px;
+    color: white;
+}

@@ -1,0 +1,24 @@
+
+.chefdetail-container img{
+    width: 400px;
+    
+}
+.chefdetail-headline{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+}
+
+.chefdetail-headline p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+.chefdescription{
+    width: 70%;
+    margin-left: 70px;
+    margin-bottom: 0;
+}

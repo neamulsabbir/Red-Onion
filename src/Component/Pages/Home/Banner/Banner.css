@@ -1,0 +1,50 @@
+.banner-img{
+    background: url("../../../../images/bannerbackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /* height: 100%; */
+    background-attachment: fixed;
+    width: 100%;
+}
+.banner-container{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+.banner-container input {
+    width: 60%;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+    margin-top: 20px;
+    position: relative;
+}
+.banner-container h1{
+    font-weight: 400;
+    font-size: 40px;
+}
+.banner-container button {
+    width: 7%;
+    padding: 9px 10px;
+    border-radius: 30px;
+    border: none;
+    margin-top: 20px;
+    background-color: rgb(236, 0, 75);
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+    left: 835px;
+    top: 375px;
+}
+.search{
+    height: 580px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.banner-tittle{
+    display: block;
+}

@@ -1,0 +1,192 @@
+ {"productData" :[
+  {
+    "id": 1,
+    "name": "Bagel and cream chees",
+    "tittle": "How dream it was!",
+    "price": 6.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/nk0HFyr/breakfast1.png",
+    "category": "breakfast",
+    "slag": "Bagelandcreamchees",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+    
+  },
+  {
+    "id": 2,
+    "name": "Breakfast sandwich",
+    "tittle": "How dream it was!",
+    "price": 9.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/8jD07mF/breakfast2.png",
+    "category": "breakfast",
+    "slag": "Breakfastsandwich",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 3,
+    "name": "Baked chicken",
+    "tittle": "How dream it was!",
+    "price": 10.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/r5NptcF/breakfast3.png",
+    "category": "breakfast",
+    "slag": "Bakedchicken",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 4,
+    "name": "Eggs benedict",
+    "tittle": "How dream it was!",
+    "price": 7.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/WDKVs4y/breakfast4.png",
+    "category": "breakfast",
+    "slag": "Eggsbenedict",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 5,
+    "name": "Cross fried eggs",
+    "tittle": "How dream it was!",
+    "price": 3.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/k5pT5Q6/breakfast5.png",
+    "category": "breakfast",
+    "slag": "Crossfriedeggs",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 6,
+    "name": "Full Breakfast",
+    "tittle": "How dream it was!",
+    "price": 19.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/26x8XrN/breakfast6.png",
+    "category": "breakfast",
+    "slag": "FullBreakfast",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+
+  {
+    "id": 7,
+    "name": "Bagel and cream chees",
+    "tittle": "How dream it was!",
+    "price": 6.99,
+    "img": "https://ibb.co/6yPjw6Z",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 8,
+    "name": "Breakfast sandwich",
+    "tittle": "How dream it was!",
+    "price": 9.99,
+    "img": "https://ibb.co/YQ2GXV9",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 9,
+    "name": "Baked chicken",
+    "tittle": "How dream it was!",
+    "price": 10.99,
+    "img": "https://ibb.co/mHSfBc6",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 10,
+    "name": "Eggs benedict",
+    "tittle": "How dream it was!",
+    "price": 7.99,
+    "img": "https://ibb.co/wQ06f6v",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 11,
+    "name": "Cross fried eggs",
+    "tittle": "How dream it was!",
+    "price": 3.99,
+    "img": "https://ibb.co/nwVNd8f",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 12,
+    "name": "Full Breakfast",
+    "tittle": "How dream it was!",
+    "price": 19.99,
+    "img": "https://ibb.co/hcwHrpd",
+    "category": "lunch",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+
+  {
+    "id": 13,
+    "name": "Bagel and cream",
+    "slag": "bagelAndCream",
+    "tittle": "How dream it was!",
+    "price": 6.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/GxrSDY3/dinner1.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 14,
+    "name": "Dinner sandwich",
+    "slag": "dinnerSandwich",
+    "tittle": "How dream it was!",
+    "price": 9.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/PxMKstD/dinner2.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 15,
+    "name": "Baked chicken dinner",
+    "slag": "bakedChickenDinner",
+    "tittle": "How dream it was!",
+    "price": 10.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/qJgB5g3/dinner3.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 16,
+    "name": "Eggs Dish",
+    "slag": "EggisDish",
+    "tittle": "How dream it was!",
+    "price": 7.99,
+
+"shipping": 2,    "img": "https://i.ibb.co/PDxrg20/dinner4.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 17,
+    "name": "Cross eggs",
+    "slag": "corssEggs",
+    "tittle": "How dream it was!",
+    "price": 3.99,
+
+"shipping": 2,    "img": "https://i.ibb.co/1ZB2VGG/dinner5.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  },
+  {
+    "id": 18,
+    "name": "Full Dinner",
+    "slag": "fullDinner",
+    "tittle": "How dream it was!",
+    "price": 19.99,
+    "shipping": 2,
+    "img": "https://i.ibb.co/vdcVftx/dinner6.png",
+    "category": "dinner",
+    "details" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.."
+  }
+ ]
+ }

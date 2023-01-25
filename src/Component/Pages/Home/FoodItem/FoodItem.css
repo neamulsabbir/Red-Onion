@@ -1,0 +1,10 @@
+.fooditem-container{
+    margin-bottom: 30px;
+}
+.fooditem-container img{
+    width: 200px;
+}
+.fooditem-detail{
+    text-align: center;
+    color: black;
+}

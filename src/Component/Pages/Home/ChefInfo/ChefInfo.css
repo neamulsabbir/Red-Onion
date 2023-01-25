@@ -1,0 +1,13 @@
+.chefinfo-container{
+    display: flex;
+    margin: 90px 250px;
+    align-items: center;
+}
+.chefinfo-container img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.chefinfo-details{
+    margin-left: 80px;
+}
